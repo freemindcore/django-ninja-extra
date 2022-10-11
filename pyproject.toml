@@ -4,10 +4,10 @@ build-backend = "flit_core.buildapi"
 
 [tool.flit.metadata]
 module = "ninja_extra"
-dist-name = "django-ninja-extra"
-author = "Ezeudoh Tochukwu"
-author-email = "tochukwu.ezeudoh@gmail.com"
-home-page = "https://github.com/eadwinCode/django-ninja-extra"
+dist-name = "django-ninja-extra-easy"
+author = "Freemind Core"
+author-email = "freemindcore@icloud.com"
+home-page = "https://github.com/freemindcore/django-ninja-extra"
 classifiers = [
     "Intended Audience :: Information Technology",
     "Intended Audience :: System Administrators",
